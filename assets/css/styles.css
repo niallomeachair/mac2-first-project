@@ -3,7 +3,7 @@
     background-image: url(../images/01-02-02_background-img.jpg);
 } */
 
-body{
+body {
     background-color: lightgray;
     background-image: url(../images/01-02-02_background-img.jpg);
 }
@@ -12,10 +12,10 @@ h2 {
     color: orangered;
 }
 
-p{
+p {
     font-weight: bold;
 }
 
-text-center{
-    text-align: text-center;
+.text-center {
+    text-align: center;
 }
